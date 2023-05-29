@@ -1,0 +1,19 @@
+
+/* Bonne typographie pour le texte */
+p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Limiter la taille des logos */
+img[alt="logo-pdf"] { width: 64px; }
+
+
+/* Supprimer les boutons de navigation suivant et précédent dans le footer */
+.md-footer__inner {
+  display: none
+}
+
+.md-footer__inner:not([hidden]) {
+  display: none
+}
