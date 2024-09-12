@@ -2,267 +2,277 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cours.wyrm.fr/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1STI2D/Lectures/Lectures%20de%20l%E2%80%99anne%CC%81e/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cours.wyrm.fr/1STI2D/Poe%CC%81sie/00%20-%20Introduction%20-%20Rimbaud/</loc>
+         <lastmod>2024-09-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cours.wyrm.fr/1STI2D/Poe%CC%81sie/01%20-%20Le%20dormeur%20du%20val/</loc>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Grammaire/La%20n%C3%A9gation/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Grammaire/La%20subordination/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Grammaire/L%E2%80%99interrogation/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Lectures/Lectures%20de%20l%E2%80%99ann%C3%A9e/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Litt%C3%A9rature%20d%E2%80%99id%C3%A9es/00%20-%20Introduction%20g%C3%A9n%C3%A9rale/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Litt%C3%A9rature%20d%E2%80%99id%C3%A9es/01%20-%20L%E2%80%99on%20parle%20d%E2%80%99une%20r%C3%A9gion%20o%C3%B9%20-%20Les%20Caract%C3%A8res%20VIII%2C%2074/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Litt%C3%A9rature%20d%E2%80%99id%C3%A9es/02%20-%20Arrias%20a%20tout%20vu%2C%20tout%20lu%20-%20Les%20Caract%C3%A8res%20V%2C%209/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Litt%C3%A9rature%20d%E2%80%99id%C3%A9es/03%20-%20Un%20Pamphile%20est%20plein%20de%20lui-m%C3%AAme%20-%20Les%20Caract%C3%A8res%20IX%2C%2050/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Litt%C3%A9rature%20d%E2%80%99id%C3%A9es/04%20-%20Jacques%20le%20Fataliste%20et%20son%20ma%C3%AEtre%2C%20l%27abb%C3%A9%20Hudson%2C%20Diderot/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/M%C3%A9thode/Commentaire%20-%20premi%C3%A8re%20g%C3%A9n%C3%A9rale/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/M%C3%A9thode/Dissertation/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/M%C3%A9thode/Explication%20lin%C3%A9aire/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/M%C3%A9thode/Mouvements%20litt%C3%A9raires/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/M%C3%A9thode/M%C3%A9thodologie%20de%20l%E2%80%99entretien%20au%20baccalaur%C3%A9at/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Po%C3%A9sie/00%20-%20Introduction%20-%20Rimbaud/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Po%C3%A9sie/01%20-%20Le%20dormeur%20du%20val/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Po%C3%A9sie/02%20-%20Ma%20Boh%C3%AAme/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Po%C3%A9sie/03%20-%20Morts%20de%20Quatre-vingt-douze/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Po%C3%A9sie/04%20-%20L%E2%80%99aube/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Roman/00%20-%20Introduction%20g%C3%A9n%C3%A9rale%20-%20le%20roman/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Roman/01%20-%20Manon%20Lescaut%20-%20La%20rencontre%20/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Roman/02%20-%20Manon%20Lescaut%20-%20Le%20vieillard%20d%C3%A9pouill%C3%A9/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Roman/03%20-%20Manon%20Lescaut%20-%20La%20mort%20de%20Manon/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Roman/04%20-%20Romain%20Gary%20-%20La%20vie%20devant%20soi/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Th%C3%A9%C3%A2tre/00%20-%20Introduction%20g%C3%A9n%C3%A9rale%20-%20Le%20malade%20imaginaire/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Th%C3%A9%C3%A2tre/01%20-%20Le%20Malade%20imaginaire%20II%2C%205/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Th%C3%A9%C3%A2tre/02%20-%20Le%20Malade%20imaginaire%20III%2C%203/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Th%C3%A9%C3%A2tre/03%20-%20Le%20Malade%20imaginaire%20III%2C%2010/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/1re%20g%C3%A9n%C3%A9rale/Th%C3%A9%C3%A2tre/04%20-%20Ubu%20roi%2C%20acte%20III%2C%20sc%C3%A8nes%203%20et%204/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2001/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2002/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2003/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2004/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2005/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2006/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2007/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Document%2008/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2001%20-%20Avortement/Questions/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2001/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2002/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2003/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2004/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2005/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2006/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2007/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2008/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Document%2009/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cours.wyrm.fr/BTS/Th%C3%A8me%2002%20-%20%C3%89cologie/Questions/</loc>
-         <lastmod>2024-09-03</lastmod>
+         <lastmod>2024-09-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
