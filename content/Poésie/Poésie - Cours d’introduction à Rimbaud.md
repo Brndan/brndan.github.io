@@ -1,9 +1,16 @@
+---
+title: Cours d’introduction aux Cahiers de Douai
+---
+
+
 #littérature #poésie #introductions #rimbaud
-# Poésie - Cours d’introduction à Rimbaud
 
-Arthur Rimbaud, *Les Cahiers de Douai*
 
-Parcours : émancipations créatrices
+
+
+## Parcours : émancipations créatrices
+
+Œuvre : Arthur Rimbaud, *Les Cahiers de Douai*
 
 ## L'émergence de la modernité
 
