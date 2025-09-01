@@ -13,7 +13,7 @@ tags:
 - Marivaux, _Les fausses confidences_. Provoquer l’amour par le mensonge… un pari risqué.
 - William Shakespeare, _Comme il vous plaira_. Faire semblant de n’être pas amoureux rend les choses compliquées…
 
-## Roman et récit du XVIII<sup>e</sup> au XXI<sup>e</sup> siècle
+## Roman et récit du dix-huitième au vingt-et-unième siècle
 
 ### Parcours : personnages en marge, plaisirs du romanesque
 
