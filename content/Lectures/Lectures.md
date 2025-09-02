@@ -1,5 +1,5 @@
 ---
-title: Lectures proposées
+title: Lectures
 tags:
   - carnet_de_lecture
 ---
