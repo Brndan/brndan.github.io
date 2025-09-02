@@ -3,7 +3,15 @@ title: Lectures proposées
 tags:
   - carnet_de_lecture
 ---
-## Théâtre : parcours mensonge et comédie
+Chacun des quatre objet d'étude compte une œuvre qui fera l'objet d'une étude approfondie en classe et doit être acquise. 
+
+Les autres œuvres du parcours feront l'objet de lectures cursives par les élèves.
+## Théâtre du dix-septième siècle au vingt-et-unième siècle
+
+- Parcours : _mensonge et comédie_.
+- Œuvre : Pierre Corneille, _Le Menteur_
+
+### Parcours mensonge et comédie
 
 - Beaumarchais, _Le mariage de Figaro._ Stratagèmes et subterfuges mis au service de l’amour dans cette comédie de la fin du 18e siècle.
 - Feydeau, _Le mariage de Barillon_. Un quiproquo en mairie conduit tout un petit monde à se croire marié à la mauvaise personne.
@@ -13,11 +21,14 @@ tags:
 - Marivaux, _Les fausses confidences_. Provoquer l’amour par le mensonge… un pari risqué.
 - William Shakespeare, _Comme il vous plaira_. Faire semblant de n’être pas amoureux rend les choses compliquées…
 
-## Roman et récit du dix-huitième au vingt-et-unième siècle
+## Roman et récit du Moyen Âge au vingt-et-unième siècle
+
+- Parcours : _personnages en marge, plaisirs du romanesque_.
+- Œuvre : Abbé Prévost, _Manon Lescaut_
 
 ### Parcours : personnages en marge, plaisirs du romanesque
 
-### Littérature francophone
+#### Littérature francophone
 
 - Alain Damasio, _La zone du dehors_. À Cerclon, tout le monde note tout le monde. Jusqu’au jour où…
 - Alexandre Dumas, _Le comte de Monte-Cristo_. Un homme s’évade d’une forteresse. Il remet la main sur sa fortune, et s’apprête à se venger.
@@ -27,24 +38,29 @@ tags:
 - Victor Hugo, _L’homme qui rit_. Les péripéties croisées du vagabond Ursus et de Gwynplaine, mutilés au visage.
 - Antoine François Prévost, _Manon Lescaut_. Récit d’une jeune femme prête à tout pour demeurer libre.
 
-### Littérature en langue étrangère
+#### Littérature en langue étrangère
 
 - Emily Brontë, _Les Hauts de Hurlevent_ (Angleterre). Cruauté, complots… une famille est déchirée par une malédiction.
 - Harper Lee, _Ne tirez pas sur l’oiseau moqueur_. Deux enfants élevés avec tendresse découvrent la réalité du racisme au sud des États-Unis des années trente.
 - John Steinbeck, _Les raisins de la colère_. Une famille de l’Oklahoma part en Californie, en quête de travail, de pain, et de liberté.
 - Johne Kennedy Toole, _La conjuration des imbéciles._ Un éternel étudiant qui vit encore chez sa mère en Louisiane méprise ses contemporains dans un roman loufoque.
 
-## Littérature d’idées
+## Littérature d’idées seizième siècle au dix-huitième siècle
+
+- Parcours : _« Défendre » et « entretenir » la liberté._
+- Œuvre : Étienne de La Boétie, _Discours de la servitude volontaire_
 
 ### Parcours : « Défendre » et « entretenir » la liberté.
-
   
 - Jean-Paul Sartre, _La Mort dans l'âme_. La défaite de 1940 conduit les personnages à réfléchir sur la liberté.
 - Marie Ndiaye, _Trois femmes puissantes_. Un récit de trois femmes qui défendent leur dignité.
 - Patrick Chamoiseau, _Texaco_. Un roman sur le colonialisme aux Antilles.
 - Victor Hugo, _Les misérables_. Jean Valjean sort du bagne après dix-neuf ans de prison. Il croise une kyrielle de personnages, tous des représentations de la misère du 19e siècle en France.
 
-## Poésie
+## La poésie du dix-neuvième siècle au vingt-et-unième siècle
+
+- Parcours : _émancipations créatrices_.
+- Œuvre : Rimbaud, _Cahier de Douai_
 
 ### Parcours : émancipations créatrices.
 
