@@ -35,6 +35,8 @@ Nous, courbés sous les rois comme sous une trique :
 *— Mazas, 3 septembre 1870.*  
 Arthur Rimbaud
 
+[[Rimbaud - Morts de 92.pdf|Télécharger le poème]]
+
 ------
 
 ## Introduction

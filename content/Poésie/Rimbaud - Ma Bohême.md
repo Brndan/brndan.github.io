@@ -32,6 +32,7 @@ De mes souliers blessés, un pied près de mon cœur !
 
 — Arthur Rimbaud, Ma Bohème, octobre 1870
 
+[[Rimbaud - Ma Bohême.pdf|Télécharger le poème]]
 ## Introduction
 
 Rimbaud (1854 – 1891) fait partie du groupe de ceux que Verlaine nomme les « poètes maudits ». Il n’écrit que durant cinq ans des poèmes qui se caractérisent par une recherche formelle, et montrent l’anticonformisme du jeune homme aussi bien que son talent d’écriture. La légende de Rimbaud se construit sur l’arrêt brutal de l’écriture, et la vie aventureuse ainsi que brève du poète.
