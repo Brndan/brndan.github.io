@@ -22,7 +22,7 @@ Notes :
 6. huchet : cor de chasse.
 7. Lacédémoniens : synonyme de « Spartiates ».
 
-[[02 - La Boétie - Servitude volontaire - nature et habitude.pdf|Télécharger l‘extrait en PDF]]
+[Accéder aux PDF](https://wyrm.fr/~brendan/documents/idees)
 
 ----
 

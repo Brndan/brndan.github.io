@@ -17,7 +17,7 @@ author:
 — Étienne de la Boétie, *Discours de la servitude volontaire,* 1576
 
 
-[[01 - La Boétie - Servitude volontaire - Soyez résolus à ne plus servir.pdf|Télécharger le texte]]
+[Accéder aux PDF](https://wyrm.fr/~brendan/documents/idees)
 
 -----------
 

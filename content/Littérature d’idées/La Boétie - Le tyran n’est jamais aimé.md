@@ -19,7 +19,7 @@ Donc n’est-ce pas grande pitié que, voyant tant d’exemples apparents, voyan
 [^3]: Clocher : boîter.
 [^4]: Avisement : sagesse.
 
-[[03 - La Boétie - Servitude volontaire - Le tyran n’est jamais aimé.pdf|Télécharger le texte en PDF]]
+[Accéder aux PDF](https://wyrm.fr/~brendan/documents/idees)
 
 ---
 ## Textes complémentaires
