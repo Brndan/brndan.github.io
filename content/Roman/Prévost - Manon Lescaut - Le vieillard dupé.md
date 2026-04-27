@@ -15,7 +15,7 @@ title: Prévost, Manon Lescaut - Le vieillard dupé
 
 – Abbé Prévost, *Histoire du chevalier des Grieux et de Manon Lescaut*, éd. révisée de 1753.
 
-[[Manon Lescaut - Le vieillard dépouillé - texte LaTeX.pdf|Télécharger l'extrait en PDF]]
+[[Manon Lescaut - Le vieillard.pdf|Télécharger l'extrait en PDF]]
 
 ---
 
