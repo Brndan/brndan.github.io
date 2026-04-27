@@ -15,6 +15,9 @@ title: Manon Lescaut - La rencontre
 
 — Abbé Prévost, *Manon Lescaut*, *Histoire du chevalier des Grieux et de Manon Lescaut*, éd. révisée de 1753
 
+[[Manon Lescaut - La rencontre.pdf|Télécharger l'extrait en PDF]]
+
+---
 ## Introduction
 
 L’abbé Prévost est un écrivain du dix-huitième siècle qui mène à bien des égards une vie aussi aventureuse et libertine que le héros de Manon Lescaut. Dans ce roman-mémoires, sorte de récit rétrospectif fictif, Prévost se charge avec malice de faire la satire de l’hypocrisie des mœurs de son époque. Le roman est construit autour d’un narrateur qui prétend avoir rencontré un personnage dont il prend en note le récit. Le narrateur est donc ce dernier personnage issu de la mise en abyme.
