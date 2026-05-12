@@ -13,6 +13,8 @@ Madame Rosa était déjà vieille et fatiguée même sans ça et elle le prenait
 
 — Romain Gary (Émile Ajar), *La vie devant soi*, 1975
 
+[[La vie devant soi.pdf|Télécharger l'extrait en PDF]]
+
 ------------
 
 # Introduction

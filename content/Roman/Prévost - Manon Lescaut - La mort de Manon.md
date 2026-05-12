@@ -22,6 +22,8 @@ title: Prévost - Manon Lescaut – La mort de Manon
 
 – Abbé Prévost, *Histoire du chevalier des Grieux et de Manon Lescaut*, éd. révisée de 1753
 
+[[Manon Lescaut - La mort de Manon.pdf|Télécharger l'extrait en PDF]]
+
 ----------
 
 ## Introduction
