@@ -13,17 +13,22 @@
 
 Une proposition subordonnée complétive peut être remplacée par un groupe nominal.
 
-*Je désire ardemment qu’il tombe* = Je désire ardemment sa chute
+⚠️ **Critère : sans la complétive, la phrase semble bancale.**
+
+- *Je désire ardemment qu’il tombe* = Je désire ardemment sa chute
+- *Il faut qu’il parte* = Je désire son départ
+
 
 Elle est introduite par une conjonction de subordination :
 
-*que* → subordonnée conjonctive
-
-*si* → subordonnée interrogative totale
+- *que* → subordonnée conjonctive
+- *si* → subordonnée interrogative totale
 
 ## II – les propositions subordonnées circonstancielles
 
 Ces propositions sont introduites par une conjonction de subordination qui en plus expose la nature de la relation sémantique entre subordonnée et principale.
+
+⚠️ **Critère : une proposition subordonnée circonstancielle apporte des précision à une proposition, à une phrase.**
 
 Il existe énormément de types différents :
 
@@ -38,6 +43,8 @@ Il existe énormément de types différents :
 ## III – Les propositions subordonnées relatives
 
 Les propositions subordonnées relatives sont introduites par un pronom relatif. On cherche souvent à quoi fait référence dans la principale le pronom relatif : on recherche l’antécédent.
+
+⚠️ **Critère : une proposition subordonnée relative est une expansion du nom. Elle précise un nom ou un GN. Si ce n’est pas le cas, ce n’est pas une PSR.**
 
 ### 1/ Subordonnées relatives adjectivales. 
 
